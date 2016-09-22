@@ -1,0 +1,17 @@
+//
+//  CJHeader.pch
+//  CustomNavAndTabbar
+//
+//  Created by 侯春娇 on 16/9/22.
+//  Copyright © 2016年 侯春娇. All rights reserved.
+//
+
+#ifndef CJHeader_pch
+#define CJHeader_pch
+
+#define K_ScreenWidth [UIScreen mainScreen].bounds.size.width
+#define K_ScreenHeight [UIScreen mainScreen].bounds.size.height
+
+#define K_TabbarHeight 50
+
+#endif /* CJHeader_pch */
